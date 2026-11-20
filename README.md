@@ -1,2 +1,2 @@
 # Brightfront Websites – preview site
-Static HTML/CSS. Preview only: noindex + robots.txt Disallow. Remove both before launch.
+Static HTML/CSS. Public site (Cloudflare Pages: brightfront-websites.pages.dev).
